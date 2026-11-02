@@ -10,7 +10,7 @@
 
 </div>
 
-I like building practical software, running it on real devices and servers, and improving it when it breaks. My projects range from small Android utilities to self-hosted automations and integrations for AI coding agents.
+I work across Android apps, Go services, Python automation, browser extensions and tools for AI coding agents. My public projects include installable Android APKs, a live web dashboard and self-hosted integrations. Each repository documents its setup and limits.
 
 ## Featured open-source projects
 
