@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Bl0ck154 — Open-source software, AI agents, Android and automation">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#172746"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#42D6C5"/><stop offset="1" stop-color="#80B4FF"/></linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="20" fill="url(#bg)"/>
+  <g stroke="#375276" stroke-opacity=".38" fill="none">
+    <path d="M790 -30 1070 260M875 -30 1155 260M960 -30 1240 260M1045 -30 1325 260"/>
+    <circle cx="1100" cy="120" r="140"/><circle cx="1100" cy="120" r="94"/><circle cx="1100" cy="120" r="48"/>
+  </g>
+  <rect x="66" y="54" width="5" height="150" rx="2.5" fill="url(#accent)"/>
+  <text x="97" y="113" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="52" fill="#F8FAFC">Bl0ck154</text>
+  <text x="98" y="157" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#D9E8FD">Open-source engineering</text>
+  <text x="98" y="197" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#A7C3DF">AI agents  /  Android  /  Automation  /  Developer tools</text>
+  <g fill="url(#accent)"><circle cx="1078" cy="116" r="9"/><circle cx="1025" cy="70" r="6"/><circle cx="1146" cy="188" r="7"/></g>
+</svg>
