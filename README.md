@@ -23,6 +23,8 @@ I like building practical software, running it on real devices and servers, and 
 | [**Instagram → Telegram**](https://github.com/Bl0ck154/instagram-to-telegram) | Automated cross-posting of public Instagram posts, Reels and carousels using scheduled GitHub Actions. | Python · GitHub Actions |
 | [**Reddit MCP Publisher**](https://github.com/Bl0ck154/reddit-mcp-publisher) | MCP tool for Reddit reading, draft previews and owner-approved publishing. | TypeScript · MCP · Browser automation |
 
+**More detail:** [engineering case studies and implementation trade-offs](PROJECTS.md).
+
 ## Tools for developers
 
 - [**Website Image Finder Skill**](https://github.com/Bl0ck154/website-image-finder-skill) — an agent skill for finding, reviewing and optimizing web images.
