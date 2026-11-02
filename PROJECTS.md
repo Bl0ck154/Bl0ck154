@@ -12,6 +12,10 @@ These notes explain what each project solves, the technical approach, and where 
 
 **Trade-off:** screen-based integrations depend on layouts controlled by third parties. Uncertain routes are labelled as estimates instead of shown as exact numbers.
 
+![CourierPilot app screen examples: Home, History, Addresses and Stats](https://raw.githubusercontent.com/Bl0ck154/CourierPilot/main/docs/assets/app-screens-light.png)
+
+<sub>UI examples from the CourierPilot repository.</sub>
+
 [Source and APK](https://github.com/Bl0ck154/CourierPilot) · [Release signing](https://github.com/Bl0ck154/CourierPilot/blob/main/docs/RELEASE_SIGNING.md)
 
 ## Ninebot Scooter Blocker · Bluetooth hardware companion
@@ -24,6 +28,10 @@ These notes explain what each project solves, the technical approach, and where 
 
 **Trade-off:** scooter firmware and authentication vary by model. The documented hardware-tested baseline is more trustworthy than promising universal Ninebot/Segway compatibility.
 
+![Illustrated Ninebot BLE and software-lock workflow](https://raw.githubusercontent.com/Bl0ck154/Ninebot-scooter-blocker/main/docs/assets/ble-workflow.gif)
+
+<sub>Animated feature illustration, not captured app footage.</sub>
+
 [Source, compatibility notes and releases](https://github.com/Bl0ck154/Ninebot-scooter-blocker)
 
 ## InstaFix Revived · Self-hosted link previews
@@ -35,6 +43,10 @@ These notes explain what each project solves, the technical approach, and where 
 **Engineering areas:** Go HTTP services, OpenGraph metadata, media handling, Docker, proxy and caching behavior, regression tests.
 
 **Trade-off:** upstream behavior and social-platform embed behavior change without notice. The former hosted demo is offline; the repository documents self-hosting.
+
+![Sample chat embed from InstaFix documentation](https://raw.githubusercontent.com/Bl0ck154/InstaFix-Revived/main/.github/assets/orig_embed.jpg)
+
+<sub>Preview example maintained in the InstaFix repository.</sub>
 
 [Source and self-hosting guide](https://github.com/Bl0ck154/InstaFix-Revived) · [Telegram Reel investigation](https://github.com/Bl0ck154/InstaFix-Revived/blob/main/docs/telegram-reel-previews.md)
 
