@@ -6,24 +6,26 @@
 
 **I build open-source tools for AI agents, Android, browser automation, and everyday workflows.**
 
-[Projects](#selected-projects) · [Developer tools](#tools-for-developers) · [Contributions](#upstream-contributions)
+[Projects](#featured-open-source-projects) · [Developer tools](#tools-for-developers) · [Contributions](#upstream-contributions)
 
 </div>
 
 I like building practical software, running it on real devices and servers, and improving it when it breaks. My projects range from small Android utilities to self-hosted automations and integrations for AI coding agents.
 
-## Selected projects
+## Featured open-source projects
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**CourierPilot**](https://github.com/Bl0ck154/CourierPilot) | Android companion for couriers: offer history, on-screen €/km estimates and route calculations. | Kotlin · Android · OCR |
-| [**Ninebot Scooter Blocker**](https://github.com/Bl0ck154/Ninebot-scooter-blocker) | BLE scooter companion with live telemetry, quick software lock, reconnect and charging alerts. | Java · Android · BLE |
-| [**InstaFix Revived**](https://github.com/Bl0ck154/InstaFix-Revived) | Self-hosted Instagram post and Reel previews for messaging apps. The former public demo is offline; self-hosting is supported. | Go · Docker |
-| [**Wolt Discount Monitor**](https://github.com/Bl0ck154/wolt-discount-monitor) | [Public dashboard](https://bl0ck154.github.io/wolt-discount-monitor/) for browsing and comparing Wolt promotions. | JavaScript · GitHub Pages |
-| [**Instagram → Telegram**](https://github.com/Bl0ck154/instagram-to-telegram) | Automated cross-posting of public Instagram posts, Reels and carousels using scheduled GitHub Actions. | Python · GitHub Actions |
-| [**Reddit MCP Publisher**](https://github.com/Bl0ck154/reddit-mcp-publisher) | MCP tool for Reddit reading, draft previews and owner-approved publishing. | TypeScript · MCP · Browser automation |
+<p align="center"><sub>Original project illustrations below. Each card opens the source repository.</sub></p>
 
-**More detail:** [engineering case studies and implementation trade-offs](PROJECTS.md).
+| | |
+| :---: | :---: |
+| [![CourierPilot concept illustration](assets/projects/courierpilot.svg)](https://github.com/Bl0ck154/CourierPilot) | [![Ninebot Scooter Blocker concept illustration](assets/projects/ninebot.svg)](https://github.com/Bl0ck154/Ninebot-scooter-blocker) |
+| **[CourierPilot](https://github.com/Bl0ck154/CourierPilot)**<br>Android offer analysis, routing and private courier statistics.<br>[Download APK](https://github.com/Bl0ck154/CourierPilot/releases/latest) | **[Ninebot Scooter Blocker](https://github.com/Bl0ck154/Ninebot-scooter-blocker)**<br>BLE telemetry, auto-reconnect, charging alerts and software lock.<br>[Download APK](https://github.com/Bl0ck154/Ninebot-scooter-blocker/releases/latest) |
+| [![InstaFix Revived concept illustration](assets/projects/instafix.svg)](https://github.com/Bl0ck154/InstaFix-Revived) | [![Wolt Discount Monitor concept illustration](assets/projects/wolt.svg)](https://github.com/Bl0ck154/wolt-discount-monitor) |
+| **[InstaFix Revived](https://github.com/Bl0ck154/InstaFix-Revived)**<br>Self-hosted Go service for better Instagram previews in chat apps.<br>[Self-hosting guide](https://github.com/Bl0ck154/InstaFix-Revived#run-your-own-instance) | **[Wolt Discount Monitor](https://github.com/Bl0ck154/wolt-discount-monitor)**<br>Search and compare visible food-delivery promotions.<br>[Open public dashboard](https://bl0ck154.github.io/wolt-discount-monitor/) |
+| [![Instagram to Telegram concept illustration](assets/projects/ig-telegram.svg)](https://github.com/Bl0ck154/instagram-to-telegram) | [![Reddit MCP Publisher concept illustration](assets/projects/reddit.svg)](https://github.com/Bl0ck154/reddit-mcp-publisher) |
+| **[Instagram → Telegram](https://github.com/Bl0ck154/instagram-to-telegram)**<br>Scheduled cross-posting without running your own server.<br>[Setup guide](https://github.com/Bl0ck154/instagram-to-telegram#quick-start) | **[Reddit MCP Publisher](https://github.com/Bl0ck154/reddit-mcp-publisher)**<br>Agent-assisted reading, draft previews and owner-approved posting.<br>[Workflow guide](https://github.com/Bl0ck154/reddit-mcp-publisher#see-the-workflow) |
+
+[**Engineering case studies →**](PROJECTS.md) — technical decisions, constraints and implementation details behind the projects.
 
 ## Tools for developers
 
