@@ -6,11 +6,20 @@
 
 **I build open-source tools for AI agents, Android, browser automation, and everyday workflows.**
 
-[Projects](#featured-open-source-projects) · [Developer tools](#tools-for-developers) · [Contributions](#upstream-contributions)
+[MCP & AI integrations](#ai-agents--mcp-integrations) · [Projects](#featured-open-source-projects) · [Developer tools](#tools-for-developers) · [Contributions](#upstream-contributions)
 
 </div>
 
-I work across Android apps, Go services, Python automation, browser extensions and tools for AI coding agents. My public projects include installable Android APKs, a live web dashboard and self-hosted integrations. Each repository documents its setup and limits.
+I work across Android apps, Go services, Python automation, browser extensions, and AI agent integrations. My public projects include installable Android APKs, web dashboards, and self-hosted tools. Each repository documents setup and known limits.
+
+## AI agents & MCP integrations
+
+| **[Etsy Seller MCP Hub](https://github.com/Bl0ck154/etsy-seller-mcp-hub)** | **[Reddit MCP Publisher](https://github.com/Bl0ck154/reddit-mcp-publisher)** |
+| :--- | :--- |
+| Self-hosted Model Context Protocol server for Etsy sellers: OAuth integration, listing and order workflows, inventory and reports. | Agent-ready Reddit workflows for research, draft previews and approval-based posting, built around owner control. |
+| [Source & setup](https://github.com/Bl0ck154/etsy-seller-mcp-hub#readme) | [Source & setup](https://github.com/Bl0ck154/reddit-mcp-publisher#readme) |
+
+These projects show practical work on agent-tool interfaces, external integrations, authentication boundaries, and human approval for consequential actions.
 
 ## Featured open-source projects
 
